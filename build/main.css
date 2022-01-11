@@ -20,3 +20,9 @@ nav {
 img {
   width: 100px;
 }
+
+.card-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
